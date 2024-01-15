@@ -1,0 +1,16 @@
+{
+  "name": "aldi_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_cases/store_search_test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^120.0.1",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
